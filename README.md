@@ -192,3 +192,5 @@
 | 17-05         | Macroeconomics Part II
 | 17-06         | Drills 1 to 40
 | 17-07         | Drills 41 to 77
+---
+Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
